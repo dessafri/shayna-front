@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shayna
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# shayna-front
+Frontend Code Dari shayna store di buat dengan vue js 
+>>>>>>> 9094843e036446a65116da5c7c2ade106b36b306
